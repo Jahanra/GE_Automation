@@ -1,0 +1,322 @@
+scripts.TestProductMyProfile 2018-02-16 01:02:22,807 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestProductMyProfile 2018-02-16 01:02:23,876 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestProductMyProfile 2018-02-16 01:02:44,713 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+scripts.TestProductMyProfile 2018-02-16 01:04:47,819 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestProductMyProfile 2018-02-16 01:04:47,819 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestProductMyProfile 2018-02-16 01:04:50,525 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestProductMyProfile 2018-02-16 01:12:43,655 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestProductMyProfile 2018-02-16 01:12:44,832 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestProductMyProfile 2018-02-16 01:13:00,762 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+scripts.TestProductMyProfile 2018-02-16 01:15:06,509 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestProductMyProfile 2018-02-16 01:15:06,512 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestProductMyProfile 2018-02-16 01:15:09,161 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestGuidedSearch 2018-02-16 12:38:29,074 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestGuidedSearch 2018-02-16 12:38:30,199 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestGuidedSearch 2018-02-16 12:38:44,223 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+scripts.TestGuidedSearch 2018-02-16 12:40:21,311 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestGuidedSearch 2018-02-16 12:40:21,321 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestGuidedSearch 2018-02-16 12:40:24,652 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 12:47:53,165 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginBusiness 2018-02-16 12:47:53,196 base.BaseTest.initGlobalVar(BaseTest.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 12:47:53,212 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 12:48:08,369 base.BaseTestLogin.preCondition(BaseTestLogin.java:142) login required 
+scripts.TestLoginStartUp 2018-02-16 12:49:04,728 base.BaseTestLogin.postCondition(BaseTestLogin.java:161) logout required 
+scripts.TestLoginStartUp 2018-02-16 12:49:04,736 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestLoginBusiness 2018-02-16 12:52:21,029 base.BaseTest.initReport(BaseTest.java:61) initializing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 12:52:22,341 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginBusiness 2018-02-16 12:52:22,388 base.BaseTest.initGlobalVar(BaseTest.java:75) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 12:52:22,388 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 12:52:39,219 base.BaseTestLogin.preCondition(BaseTestLogin.java:142) login required 
+scripts.TestLoginStartUp 2018-02-16 12:53:30,381 base.BaseTestLogin.postCondition(BaseTestLogin.java:161) logout required 
+scripts.TestLoginStartUp 2018-02-16 12:53:30,388 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestLoginBusiness 2018-02-16 13:03:38,755 base.BaseTest.initReport(BaseTest.java:61) initializing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 13:03:40,044 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginBusiness 2018-02-16 13:03:40,091 base.BaseTest.initGlobalVar(BaseTest.java:75) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:03:40,091 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:03:58,338 base.BaseTestLogin.preCondition(BaseTestLogin.java:142) login required 
+scripts.TestLoginStartUp 2018-02-16 13:03:58,354 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestLoginBusiness 2018-02-16 13:05:34,540 base.BaseTest.initReport(BaseTest.java:61) initializing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 13:05:35,621 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginBusiness 2018-02-16 13:05:35,668 base.BaseTest.initGlobalVar(BaseTest.java:75) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:05:35,668 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:05:53,533 base.BaseTestLogin.preCondition(BaseTestLogin.java:142) login required 
+generics.Listener 2018-02-16 13:05:53,543 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:05:53,544 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:06:43,247 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginStartUps' PASSED 
+generics.Listener 2018-02-16 13:06:43,247 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginStartUp] 
+generics.Listener 2018-02-16 13:06:43,248 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+generics.Listener 2018-02-16 13:06:43,248 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginStartUps' PASSED 
+generics.Listener 2018-02-16 13:06:43,249 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginStartUp] 
+generics.Listener 2018-02-16 13:06:43,249 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestLoginStartUp 2018-02-16 13:06:43,251 base.BaseTestLogin.postCondition(BaseTestLogin.java:161) logout required 
+scripts.TestLoginStartUp 2018-02-16 13:06:43,258 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+generics.Listener 2018-02-16 13:06:51,912 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:06:51,923 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:06:53,612 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginBusiness' PASSED 
+generics.Listener 2018-02-16 13:06:53,612 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginBusiness] 
+generics.Listener 2018-02-16 13:06:53,612 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+generics.Listener 2018-02-16 13:06:53,612 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginBusiness' PASSED 
+generics.Listener 2018-02-16 13:06:53,612 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginBusiness] 
+generics.Listener 2018-02-16 13:06:53,612 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestLoginBusiness 2018-02-16 13:06:53,612 base.BaseTest.closeApplication(BaseTest.java:140) Closing Browser 
+scripts.TestLoginBusiness 2018-02-16 13:18:32,173 base.BaseTest.initReport(BaseTest.java:61) initializing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 13:18:33,563 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginBusiness 2018-02-16 13:18:33,595 base.BaseTest.initGlobalVar(BaseTest.java:75) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:18:33,599 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:18:52,035 base.BaseTestLogin.preCondition(BaseTestLogin.java:142) login required 
+generics.Listener 2018-02-16 13:18:52,047 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:18:52,048 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:19:50,685 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginStartUps' PASSED 
+generics.Listener 2018-02-16 13:19:50,686 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginStartUp] 
+generics.Listener 2018-02-16 13:19:50,687 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+generics.Listener 2018-02-16 13:19:50,691 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginStartUps' PASSED 
+generics.Listener 2018-02-16 13:19:50,692 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginStartUp] 
+generics.Listener 2018-02-16 13:19:50,692 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestLoginStartUp 2018-02-16 13:19:50,694 base.BaseTestLogin.postCondition(BaseTestLogin.java:161) logout required 
+scripts.TestLoginStartUp 2018-02-16 13:19:50,706 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+generics.Listener 2018-02-16 13:20:04,820 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:20:04,824 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:20:53,238 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginBusiness' PASSED 
+generics.Listener 2018-02-16 13:20:53,239 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginBusiness] 
+generics.Listener 2018-02-16 13:20:53,239 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+generics.Listener 2018-02-16 13:20:53,240 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginBusiness' PASSED 
+generics.Listener 2018-02-16 13:20:53,240 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginBusiness] 
+generics.Listener 2018-02-16 13:20:53,240 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestLoginBusiness 2018-02-16 13:20:53,243 base.BaseTest.closeApplication(BaseTest.java:140) Closing Browser 
+scripts.TestLoginBusiness 2018-02-16 13:20:59,177 base.BaseTest.initReport(BaseTest.java:61) initializing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 13:21:03,163 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginBusiness 2018-02-16 13:21:03,296 base.BaseTest.initGlobalVar(BaseTest.java:75) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:21:03,304 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:24:31,601 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 13:24:32,960 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:24:55,494 base.BaseTestLogin.preCondition(BaseTestLogin.java:142) login required 
+generics.Listener 2018-02-16 13:24:55,505 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:24:55,506 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:25:44,735 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginStartUps' PASSED 
+generics.Listener 2018-02-16 13:25:44,736 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginStartUp] 
+generics.Listener 2018-02-16 13:25:44,736 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+generics.Listener 2018-02-16 13:25:44,737 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginStartUps' PASSED 
+generics.Listener 2018-02-16 13:25:44,738 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginStartUp] 
+generics.Listener 2018-02-16 13:25:44,738 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestLoginStartUp 2018-02-16 13:25:44,740 base.BaseTestLogin.postCondition(BaseTestLogin.java:161) logout required 
+scripts.TestLoginStartUp 2018-02-16 13:25:44,748 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestLoginStartUp 2018-02-16 13:25:47,474 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 13:26:27,626 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 13:26:28,859 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:27:32,724 base.BaseTestLogin.preCondition(BaseTestLogin.java:142) login required 
+generics.Listener 2018-02-16 13:27:32,738 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:27:32,740 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+scripts.TestLoginStartUp 2018-02-16 13:28:27,571 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 13:28:28,649 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:29:11,543 base.BaseTestLogin.preCondition(BaseTestLogin.java:142) login required 
+generics.Listener 2018-02-16 13:29:11,557 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:29:11,559 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+scripts.TestLoginStartUp 2018-02-16 13:30:09,841 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestLoginStartUp 2018-02-16 13:30:10,707 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestLoginStartUp 2018-02-16 13:31:20,781 base.BaseTestLogin.preCondition(BaseTestLogin.java:142) login required 
+generics.Listener 2018-02-16 13:31:20,797 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:31:20,798 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 13:31:25,871 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginStartUps' PASSED 
+generics.Listener 2018-02-16 13:31:25,872 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginStartUp] 
+generics.Listener 2018-02-16 13:31:25,872 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+generics.Listener 2018-02-16 13:31:25,873 generics.Listener.onTestSuccess(Listener.java:23) Test 'testLoginStartUps' PASSED 
+generics.Listener 2018-02-16 13:31:25,873 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestLoginStartUp] 
+generics.Listener 2018-02-16 13:31:25,874 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestLoginStartUp 2018-02-16 13:31:25,875 base.BaseTestLogin.postCondition(BaseTestLogin.java:161) logout required 
+scripts.TestLoginStartUp 2018-02-16 13:31:25,885 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestLoginStartUp 2018-02-16 13:31:28,160 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestChangePreferences 2018-02-16 14:34:38,240 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-16 14:34:39,491 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-16 14:34:58,164 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 14:35:11,244 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+scripts.TestGuidedSearch 2018-02-16 14:35:42,317 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestGuidedSearch 2018-02-16 14:35:43,518 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestGuidedSearch 2018-02-16 14:36:11,269 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 14:36:24,357 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 14:37:17,723 generics.Listener.onTestSuccess(Listener.java:23) Test 'testGuidedSearch' PASSED 
+generics.Listener 2018-02-16 14:37:17,723 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestGuidedSearch] 
+generics.Listener 2018-02-16 14:37:17,723 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestGuidedSearch 2018-02-16 14:37:17,723 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestGuidedSearch 2018-02-16 14:37:17,723 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestGuidedSearch 2018-02-16 14:37:20,598 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestRegistrationBusiness 2018-02-16 14:45:17,688 base.BaseTest.initReport(BaseTest.java:61) initializing ExtentReport 
+scripts.TestRegistrationBusiness 2018-02-16 14:45:18,829 base.BaseTest.initGlobalVar(BaseTest.java:75) initialize Global variables 
+generics.Listener 2018-02-16 14:45:35,721 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 14:46:08,757 generics.Listener.onTestSuccess(Listener.java:23) Test 'testRegistrationBusiness' PASSED 
+generics.Listener 2018-02-16 14:46:08,758 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestRegistrationBusiness] 
+generics.Listener 2018-02-16 14:46:08,758 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestRegistrationBusiness 2018-02-16 14:46:08,766 base.BaseTest.closeApplication(BaseTest.java:140) Closing Browser 
+scripts.TestRegistrationBusiness 2018-02-16 14:46:13,148 base.BaseTest.publishReport(BaseTest.java:69) publishing ExtentReport 
+scripts.TestRegistrationBusiness 2018-02-16 14:50:39,606 base.BaseTest.initReport(BaseTest.java:61) initializing ExtentReport 
+scripts.TestRegistrationBusiness 2018-02-16 14:50:40,778 base.BaseTest.initGlobalVar(BaseTest.java:75) initialize Global variables 
+generics.Listener 2018-02-16 14:51:00,093 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 14:51:32,792 generics.Listener.onTestSuccess(Listener.java:23) Test 'testRegistrationBusiness' PASSED 
+generics.Listener 2018-02-16 14:51:32,793 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestRegistrationBusiness] 
+generics.Listener 2018-02-16 14:51:32,794 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestRegistrationBusiness 2018-02-16 14:51:32,802 base.BaseTest.closeApplication(BaseTest.java:140) Closing Browser 
+scripts.TestRegistrationBusiness 2018-02-16 14:51:35,432 base.BaseTest.publishReport(BaseTest.java:69) publishing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 15:05:07,781 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 15:05:09,391 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 15:05:25,343 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 15:05:39,942 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 15:14:23,905 generics.Listener.onTestSuccess(Listener.java:23) Test 'testAdvSearchNavigation' PASSED 
+generics.Listener 2018-02-16 15:14:23,906 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestAdvSearchNavigation] 
+generics.Listener 2018-02-16 15:14:23,907 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestAdvSearchNavigation 2018-02-16 15:14:23,908 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestAdvSearchNavigation 2018-02-16 15:14:29,246 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestAdvSearchNavigation 2018-02-16 15:14:32,377 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 15:20:26,137 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 15:20:27,468 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 15:20:47,115 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 15:21:01,596 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+scripts.TestAdvSearchNavigation 2018-02-16 15:51:11,074 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 15:51:12,227 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 15:51:27,915 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 15:51:42,967 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 16:00:24,477 generics.Listener.onTestSuccess(Listener.java:23) Test 'testAdvSearchNavigation' PASSED 
+generics.Listener 2018-02-16 16:00:24,477 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestAdvSearchNavigation] 
+generics.Listener 2018-02-16 16:00:24,478 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestAdvSearchNavigation 2018-02-16 16:00:24,480 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestAdvSearchNavigation 2018-02-16 16:00:30,281 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestAdvSearchNavigation 2018-02-16 16:00:33,811 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 16:01:54,956 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 16:01:56,461 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 16:02:14,240 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 16:02:28,320 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 16:11:20,494 generics.Listener.onTestSuccess(Listener.java:23) Test 'testAdvSearchNavigation' PASSED 
+generics.Listener 2018-02-16 16:11:20,495 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestAdvSearchNavigation] 
+generics.Listener 2018-02-16 16:11:20,495 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestAdvSearchNavigation 2018-02-16 16:11:20,497 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestAdvSearchNavigation 2018-02-16 16:11:25,876 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestAdvSearchNavigation 2018-02-16 16:11:29,336 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 16:16:44,831 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 16:16:45,761 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 16:17:03,083 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 16:17:17,756 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 16:26:21,643 generics.Listener.onTestSuccess(Listener.java:23) Test 'testAdvSearchNavigation' PASSED 
+generics.Listener 2018-02-16 16:26:21,644 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestAdvSearchNavigation] 
+generics.Listener 2018-02-16 16:26:21,645 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestAdvSearchNavigation 2018-02-16 16:26:21,646 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestAdvSearchNavigation 2018-02-16 16:26:27,003 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestAdvSearchNavigation 2018-02-16 16:26:30,093 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 16:29:45,489 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 16:29:46,630 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 16:30:04,432 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 16:30:18,980 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+scripts.TestAdvSearchNavigation 2018-02-16 16:40:04,716 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 16:40:05,654 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 16:40:23,539 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 16:40:37,586 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+scripts.TestAdvSearchNavigation 2018-02-16 16:54:40,893 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 16:54:41,908 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 16:55:07,005 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 16:55:21,428 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 17:00:11,385 generics.Listener.onTestSuccess(Listener.java:23) Test 'testAdvSearchNavigation' PASSED 
+generics.Listener 2018-02-16 17:00:11,386 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestAdvSearchNavigation] 
+generics.Listener 2018-02-16 17:00:11,386 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestAdvSearchNavigation 2018-02-16 17:00:11,388 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestAdvSearchNavigation 2018-02-16 17:00:16,879 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestAdvSearchNavigation 2018-02-16 17:00:20,286 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 17:05:38,800 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 17:05:39,563 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 17:05:56,957 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 17:06:11,098 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+scripts.TestAdvSearchNavigation 2018-02-16 17:08:46,261 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 17:08:47,578 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 17:09:03,540 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 17:09:18,649 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 17:11:06,821 generics.Listener.onTestSuccess(Listener.java:23) Test 'testAdvSearchNavigation' PASSED 
+generics.Listener 2018-02-16 17:11:06,821 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestAdvSearchNavigation] 
+generics.Listener 2018-02-16 17:11:06,822 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestAdvSearchNavigation 2018-02-16 17:11:06,824 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestAdvSearchNavigation 2018-02-16 17:11:12,308 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestAdvSearchNavigation 2018-02-16 17:11:15,260 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 17:26:44,241 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestAdvSearchNavigation 2018-02-16 17:26:45,489 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestAdvSearchNavigation 2018-02-16 17:27:00,841 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 17:27:15,692 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 17:29:08,653 generics.Listener.onTestSuccess(Listener.java:23) Test 'testAdvSearchNavigation' PASSED 
+generics.Listener 2018-02-16 17:29:08,654 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestAdvSearchNavigation] 
+generics.Listener 2018-02-16 17:29:08,654 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestAdvSearchNavigation 2018-02-16 17:29:08,657 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestAdvSearchNavigation 2018-02-16 17:29:14,193 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestAdvSearchNavigation 2018-02-16 17:29:17,040 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestGuidedSearch 2018-02-16 17:32:35,488 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestGuidedSearch 2018-02-16 17:32:36,660 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestGuidedSearch 2018-02-16 17:33:08,445 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 17:33:22,204 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 17:34:50,792 generics.Listener.onTestSuccess(Listener.java:23) Test 'testGuidedSearch' PASSED 
+generics.Listener 2018-02-16 17:34:50,792 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestGuidedSearch] 
+generics.Listener 2018-02-16 17:34:50,792 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestGuidedSearch 2018-02-16 17:34:50,792 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestGuidedSearch 2018-02-16 17:34:56,102 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestGuidedSearch 2018-02-16 17:34:58,549 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestGuidedSearch 2018-02-16 17:37:06,784 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestGuidedSearch 2018-02-16 17:37:07,987 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestGuidedSearch 2018-02-16 17:37:24,995 base.BaseTestLogin.preCondition(BaseTestLogin.java:128) Auto login 
+generics.Listener 2018-02-16 17:37:39,420 generics.Listener.onTestStart(Listener.java:17) Test Started.... 
+generics.Listener 2018-02-16 17:39:09,603 generics.Listener.onTestSuccess(Listener.java:23) Test 'testGuidedSearch' PASSED 
+generics.Listener 2018-02-16 17:39:09,604 generics.Listener.onTestSuccess(Listener.java:26) [TestClass name=class scripts.TestGuidedSearch] 
+generics.Listener 2018-02-16 17:39:09,604 generics.Listener.onTestSuccess(Listener.java:31) Priority of this method is 0 
+scripts.TestGuidedSearch 2018-02-16 17:39:09,606 base.BaseTestLogin.postCondition(BaseTestLogin.java:155) Auto logout 
+scripts.TestGuidedSearch 2018-02-16 17:39:14,995 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestGuidedSearch 2018-02-16 17:39:17,749 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 11:54:52,079 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 11:54:53,118 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+generics.Listener 2018-02-19 11:55:05,549 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
+generics.Listener 2018-02-19 11:55:05,549 generics.Listener.onTestSkipped(Listener.java:50) Test 'testChangePreferencesFun' SKIPPED 
+scripts.TestChangePreferences 2018-02-19 11:58:38,338 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 11:58:39,472 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-19 11:58:57,482 base.BaseTestLogin.preCondition(BaseTestLogin.java:130) Auto login 
+generics.Listener 2018-02-19 11:59:11,165 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
+scripts.TestChangePreferences 2018-02-19 12:22:28,323 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 12:22:29,663 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-19 12:22:50,551 base.BaseTestLogin.preCondition(BaseTestLogin.java:130) Auto login 
+generics.Listener 2018-02-19 12:23:04,425 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
+generics.Listener 2018-02-19 12:44:06,782 generics.Listener.onTestSuccess(Listener.java:25) Test 'testChangePreferencesFun' PASSED 
+generics.Listener 2018-02-19 12:44:06,782 generics.Listener.onTestSuccess(Listener.java:28) [TestClass name=class scripts.TestChangePreferences] 
+generics.Listener 2018-02-19 12:44:06,782 generics.Listener.onTestSuccess(Listener.java:33) Priority of this method is 0 
+scripts.TestChangePreferences 2018-02-19 12:44:06,782 base.BaseTestLogin.postCondition(BaseTestLogin.java:179) Auto logout 
+scripts.TestChangePreferences 2018-02-19 12:44:12,262 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestChangePreferences 2018-02-19 12:44:17,124 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 12:46:45,840 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 12:46:46,950 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-19 12:47:06,121 base.BaseTestLogin.preCondition(BaseTestLogin.java:130) Auto login 
+generics.Listener 2018-02-19 12:47:20,747 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
+generics.Listener 2018-02-19 12:47:30,870 generics.Listener.onTestSuccess(Listener.java:25) Test 'testChangePreferencesFun' PASSED 
+generics.Listener 2018-02-19 12:47:30,871 generics.Listener.onTestSuccess(Listener.java:28) [TestClass name=class scripts.TestChangePreferences] 
+generics.Listener 2018-02-19 12:47:30,871 generics.Listener.onTestSuccess(Listener.java:33) Priority of this method is 0 
+scripts.TestChangePreferences 2018-02-19 12:47:30,871 base.BaseTestLogin.postCondition(BaseTestLogin.java:179) Auto logout 
+scripts.TestChangePreferences 2018-02-19 12:47:36,527 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestChangePreferences 2018-02-19 12:47:39,293 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 12:52:22,245 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 12:52:23,396 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-19 12:52:38,425 base.BaseTestLogin.preCondition(BaseTestLogin.java:130) Auto login 
+generics.Listener 2018-02-19 12:53:15,142 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
+generics.Listener 2018-02-19 12:53:15,144 generics.Listener.onTestSkipped(Listener.java:50) Test 'testChangePreferencesFun' SKIPPED 
+scripts.TestChangePreferences 2018-02-19 12:53:34,467 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 12:53:35,724 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-19 12:53:52,527 base.BaseTestLogin.preCondition(BaseTestLogin.java:130) Auto login 
+generics.Listener 2018-02-19 12:54:06,491 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
+generics.Listener 2018-02-19 12:54:16,642 generics.Listener.onTestSuccess(Listener.java:25) Test 'testChangePreferencesFun' PASSED 
+generics.Listener 2018-02-19 12:54:16,642 generics.Listener.onTestSuccess(Listener.java:28) [TestClass name=class scripts.TestChangePreferences] 
+generics.Listener 2018-02-19 12:54:16,643 generics.Listener.onTestSuccess(Listener.java:33) Priority of this method is 0 
+scripts.TestChangePreferences 2018-02-19 12:54:16,645 base.BaseTestLogin.postCondition(BaseTestLogin.java:179) Auto logout 
+scripts.TestChangePreferences 2018-02-19 12:54:21,992 base.BaseTestLogin.closeApplication(BaseTestLogin.java:108) Closing Browser 
+scripts.TestChangePreferences 2018-02-19 12:54:26,162 base.BaseTestLogin.publishReport(BaseTestLogin.java:66) publishing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 13:02:27,153 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 13:02:28,119 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-19 13:02:45,163 base.BaseTestLogin.preCondition(BaseTestLogin.java:130) Auto login 
+generics.Listener 2018-02-19 13:02:59,530 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
+scripts.TestChangePreferences 2018-02-19 13:04:18,484 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 13:04:19,904 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-19 13:04:36,143 base.BaseTestLogin.preCondition(BaseTestLogin.java:130) Auto login 
+generics.Listener 2018-02-19 13:04:49,559 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
+scripts.TestChangePreferences 2018-02-19 15:19:32,582 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 15:19:33,690 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-19 15:19:52,955 base.BaseTestLogin.preCondition(BaseTestLogin.java:130) Auto login 
+generics.Listener 2018-02-19 15:20:07,179 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
+scripts.TestChangePreferences 2018-02-19 15:55:36,405 base.BaseTestLogin.initReport(BaseTestLogin.java:58) initializing ExtentReport 
+scripts.TestChangePreferences 2018-02-19 15:55:37,529 base.BaseTestLogin.initGlobalVar(BaseTestLogin.java:72) initialize Global variables 
+scripts.TestChangePreferences 2018-02-19 15:55:56,916 base.BaseTestLogin.preCondition(BaseTestLogin.java:130) Auto login 
+generics.Listener 2018-02-19 15:56:10,507 generics.Listener.onTestStart(Listener.java:19) Test Started.... 
